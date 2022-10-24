@@ -8,5 +8,5 @@ to then determine the most likely outcome with an average success rate of 97.4%.
 because we don't want this method to get patched with api ratelimiting. <br/>
 
 # installation
-If you know anything about compiling, you can compile all the files for yourself. (read the note)
+If you know anything about compiling, you can compile all the files for yourself. (read the note) <br/>
 if not head to the right in the releases tab where you can find a precompiled version
